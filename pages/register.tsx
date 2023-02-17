@@ -92,7 +92,7 @@ const Register = ({ navigation }: Props) => {
                         }}
                         className="mt-4 p-4 bg-blue-600 rounded-md"
                         >
-                        <Text className="text-white">Agree</Text>
+                        <Text className="text-white">I agree</Text>
                         </TouchableOpacity>
                 </View>
                 </Modal>
