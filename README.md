@@ -8,6 +8,10 @@
   <h3 align="center"React-Native-Expo-with-Auth</h3>
   <p align="center">
 	A small react native project with Authentication that use Expo CLI
+   <br/><br/>
+   Project Visitor Count<br>
+   <img src="https://profile-counter.glitch.me/React-Native-Expo-with-Auth/count.svg" />
+   <br/><br/>
   </p>
 </div>
 
