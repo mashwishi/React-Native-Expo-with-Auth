@@ -5,7 +5,7 @@
     <img src="https://i.imgur.com/BqGt0UV.png" alt="Logo" width="300">
   </a>
 <br /><br />
-  <h3 align="center"React-Native-Expo-with-Auth</h3>
+  <h3 align="center">React-Native-Expo-with-Auth</h3>
   <p align="center">
 	A small react native project with Authentication that use Expo CLI
    <br/><br/>
