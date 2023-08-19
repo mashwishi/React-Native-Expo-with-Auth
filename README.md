@@ -9,6 +9,9 @@
   <p align="center">
 	A small react native project with Authentication that use Expo CLI
    <br/><br/>
+   <i>Due to the EXPO update, I have decided to prioritize updating "<a href="https://github.com/mashwishi/React-Native-Expo-with-TailwindCSS">React-Native-Expo-with-TailwindCSS</a>." I will return to updating this project once I have set up the  <a href="https://github.com/mashwishi/React-Native-Expo-with-TailwindCSS">React-Native-Expo-with-TailwindCSS</a> boilerplate, as I intend to use it as a template for this endeavor. The project is a compact React Native application featuring authentication, utilizing the Expo CLI.</i>
+   <br/><br/>
+
    Project Visitor Count<br>
    <img src="https://profile-counter.glitch.me/React-Native-Expo-with-Auth/count.svg" />
    <br/><br/>
